@@ -1,0 +1,6 @@
+pip install sanic
+pip install sanic-openapi
+pip install Sanic-Cors
+pip install schedule
+pip install schedule
+pip install sanic-jwt-extended
